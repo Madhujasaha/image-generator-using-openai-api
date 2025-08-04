@@ -34,7 +34,7 @@ This is a simple image generator using [OpenAI API](https://openai.com/api/). yo
 Clone the project
 
 ```bash
-  git clone https://github.com/sauravhathi/image-generator-using-openai-api
+  git clone https://github.com/Madhujasaha/image-generator-using-openai-api
 ```
 
 Go to the project directory
